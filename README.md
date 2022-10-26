@@ -2,8 +2,7 @@
 
  
 
-We are a company working in the sustainable consumption space, aimed at the US and European markets. If selected, you would be working with a motley mix of ex-Googlers, INSEAD graduates, doctors and entrepreneurs to develop the product.
-
+ 
  
 
 For instance, if I were to upload a 2 minute clip of a music video, your application should parse it, apply subtitles to it and ensure that searching for a particular word or phrase returns the time segment within which the video has those phrases being mentioned.
